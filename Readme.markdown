@@ -8,7 +8,7 @@ Alla projekt bör ha en readme
 
 ## Markdown är en enkel uppmärkning
 
- *Som oversätts till HTML
+ * Som oversätts till HTML
  * Och kan enkel formattering
  * Här har vi punkter
  
